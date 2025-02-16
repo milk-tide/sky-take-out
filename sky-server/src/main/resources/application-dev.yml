@@ -11,3 +11,13 @@ sky:
     access-key-id: LTAI5tDCJkk93kifrFpY2ZNC
     access-key-secret: 4NNj6shjAcaSzMEPeizQBpdpDxEhGg
     bucket-name: sky-ittide
+
+  redis:
+    host: localhost
+    port: 6379
+    password: 123456
+    database: 0
+
+  wechat:
+    appid: wx6759072ab3d29f32
+    secret: d34e929921a462b24d8b86824f62350e
